@@ -1,0 +1,23 @@
+{
+  "name": "tergeo",
+  "version": "1.0.0",
+  "description": "It corrects spells in your HTML files",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tannakartikey/tergeo.git"
+  },
+  "keywords": [
+    "Spelling",
+    "Correction"
+  ],
+  "author": "Kartikey Tanna <tannakartikey@gmail.com> (https://tannakartikey.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tannakartikey/tergeo/issues"
+  },
+  "homepage": "https://github.com/tannakartikey/tergeo#readme"
+}
